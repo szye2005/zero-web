@@ -1,0 +1,29 @@
+[33mcommit d33cbd8771ed7dae18348542488330247ea6412b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: szye2005 <sunzuoye@gmail.com>
+Date:   Wed Oct 14 11:03:38 2026 +0800
+
+    模块化改造
+
+[33mcommit a95df07b00de4ec226e1e27f862802b8f425ba00[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: szye2005 <sunzuoye@gmail.com>
+Date:   Mon Sep 28 14:30:01 2026 +0800
+
+    新的前端UI
+
+[33mcommit 165b16c630db06f4903721fa9611560595d404f5[m
+Author: szye2005 <sunzuoye@gmail.com>
+Date:   Thu Sep 24 10:10:02 2026 +0800
+
+    修改了README文档
+
+[33mcommit 408ac3076460c6fea7d83bc845c67d91f26a746f[m
+Author: szye2005 <sunzuoye@gmail.com>
+Date:   Wed Sep 23 09:49:21 2026 +0800
+
+    添加了gitignore文件和变更了首页文案
+
+[33mcommit 2ed7ee821c86e0961a04ddf5deb0e42b11f93a70[m
+Author: szye2005 <sunzuoye@gmail.com>
+Date:   Tue Sep 22 15:08:51 2026 +0800
+
+    学习git备份
